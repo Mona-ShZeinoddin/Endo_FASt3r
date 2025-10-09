@@ -5,7 +5,7 @@
 
 
   <p align="center">
-  <h1 align="center">Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion</h1>
+  <h1 align="center">MICCAI 2025: Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion</h1>
   <p align="center">
     <strong>Mona Sheikh Zeinoddin</strong>
     ·
@@ -32,6 +32,7 @@
 <br>
 
 
+This work was early-accpeted and selected for an oral presentation at MICCAI 2025. 
 
 ## ⚙️ Setup
 
